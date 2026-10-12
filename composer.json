@@ -3,7 +3,7 @@
   "description": "Shows specific and understandable reasons when a promo code cannot be applied (expired campaign, inactive, not started, wrong sales channel, already redeemed).",
   "type": "shopware-platform-plugin",
   "version": "0.1.0",
-  "license": "proprietary",
+  "license": "MIT",
   "require": {
     "shopware/core": ">=6.7.13.0"
   },

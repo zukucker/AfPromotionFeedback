@@ -1,0 +1,10 @@
+{
+    "checkout": {
+        "promotion-invalid-expired": "Dieser Gutscheincode ist nicht mehr gültig. Die Aktion ist inzwischen beendet.",
+        "promotion-invalid-inactive": "Dieser Gutscheincode ist zurzeit nicht aktiv.",
+        "promotion-invalid-not-started": "Dieser Gutscheincode wird erst zu einem späteren Zeitpunkt gültig.",
+        "promotion-invalid-sales-channel": "Dieser Gutscheincode ist in diesem Shop nicht gültig.",
+        "promotion-invalid-already-redeemed": "Dieser Gutscheincode wurde bereits eingelöst.",
+        "promotion-not-found": "Der Gutscheincode „%code%“ wurde nicht erkannt. Bitte überprüfen Sie die Schreibweise."
+    }
+}

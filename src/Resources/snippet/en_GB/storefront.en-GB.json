@@ -1,0 +1,10 @@
+{
+    "checkout": {
+        "promotion-invalid-expired": "This promo code is no longer valid. The campaign has ended.",
+        "promotion-invalid-inactive": "This promo code is currently not active.",
+        "promotion-invalid-not-started": "This promo code is not valid yet.",
+        "promotion-invalid-sales-channel": "This promo code is not valid in this shop.",
+        "promotion-invalid-already-redeemed": "This promo code has already been redeemed.",
+        "promotion-not-found": "The promo code \"%code%\" was not recognized. Please check the spelling."
+    }
+}
